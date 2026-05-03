@@ -1,5 +1,4 @@
 # mallikarjun444-gif
-
 # 💫 About Me:
 🚀 About Me<br>- 🎓 CSE Student (Dayananda Sagar Academy of Technology and Management)<br>- ☁️ Interested in **Cloud Computing & DevOps**<br>- 🛠️ Learning **Linux, AWS, Docker**<br>- 📈 Focused on building real-world projects<br>- 🤝 Open to collaboration & networking
 
